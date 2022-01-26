@@ -10,13 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/ChotanSharma/portfolio-generator.git"
   },
-  "author": "",
+  "author": "Chotan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ChotanSharma/portfolio-generator/issues"
   },
   "homepage": "https://github.com/ChotanSharma/portfolio-generator#readme",
   "dependencies": {
+    "inquire": "^0.4.8",
     "inquirer": "^8.2.0"
   }
 }
