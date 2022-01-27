@@ -1,9 +1,9 @@
 const inquirer = require('inquirer');
-const { prototype } = require('inquirer/lib/objects/choice');
+const inquire = require('inquirer/lib/objects/choice');
 
 
 
- const fs = require('fs');
+const fs = require('fs');
 const generatePage = require('./src/page-template');
 
 const promptUser = () => { 
